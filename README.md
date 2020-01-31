@@ -7,7 +7,7 @@ A whole code of PCA and FMA, instead of using the FactoMineR package, the goal h
 
 Mini - Project carried out with BEZIER Léa, FRAYSSE Rémi and SEROUART Mario
 
-###
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Projet effectué sous R.
 
